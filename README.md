@@ -1,1 +1,1 @@
-# Diagonal-Sudoku
+# Diagonal Sudoku
